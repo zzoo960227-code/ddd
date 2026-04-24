@@ -1,0 +1,11 @@
+{
+  "name": "nh-decrypt",
+  "version": "1.0.0",
+  "dependencies": {
+    "express": "^4.19.0",
+    "puppeteer": "^22.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
